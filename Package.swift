@@ -20,7 +20,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "library",
-            path: "ts-voice-agent-kmp.xcframework"
+            path: "library.xcframework"
         )
     ]
 )
